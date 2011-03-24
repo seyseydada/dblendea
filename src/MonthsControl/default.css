@@ -8,7 +8,7 @@
 #monthsCtl_chkList {border-collapse:collapse; text-align: left;}
 #monthsCtl_chkList input, #monthsCtl_chkList label {vertical-align: middle; cursor: pointer;}
 
-.multidropdown {color: rgb(0, 0, 0); background-color: #F8F8FF; border: 1px solid Gray; height: 255px; width: 147px;
+.multidropdown {color: rgb(0, 0, 0); background-color: #F8F8FF; border: 1px solid Gray; height: 255px; width: 147px; font-size: 12px;
 					position: absolute; z-index: 1000; margin: 0; padding: 0;}
 
 #monthsCtl_chkList label {padding: 2px 5px; width: 100px;}
